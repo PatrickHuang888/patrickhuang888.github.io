@@ -15,10 +15,13 @@ go mod tidy
 go mod tidy added module requirements for all the packages transitively imported by packages in your module and built a go.sum with checksums for each library at a specific version. 
 
 # Goland setting
-![goland project](./ide.jpg)
+![goland project]({{ site.url }}/assets/ide.jpg)
 
-![enable go module](./setting.jpg)
+![enable go module]({{ site.url }}/assets/setting.jpg)
 
 # Reference
 [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)  
-[A QUICK INTRODUCTION TO GO MODULES](https://smalldata.tech/blog/2019/03/16/a-quick-introduction-to-golang-modules)
+[A QUICK INTRODUCTION TO GO MODULES](https://smalldata.tech/blog/2019/03/16/a-quick-introduction-to-golang-modules)  
+
+
+[add image to github page](http://sgeos.github.io/github/jekyll/2016/08/30/adding_images_and_downloads_to_a_github_pages_jekyll_blog.html)
