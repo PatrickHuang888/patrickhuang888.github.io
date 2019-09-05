@@ -15,9 +15,9 @@ go mod tidy
 go mod tidy added module requirements for all the packages transitively imported by packages in your module and built a go.sum with checksums for each library at a specific version. 
 
 # Goland setting
-![goland project](ide.jpg)
+![goland project](./ide.jpg)
 
-![enable go module](setting.jpg)
+![enable go module](./setting.jpg)
 
 # Reference
 [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)  
