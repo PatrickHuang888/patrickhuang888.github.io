@@ -28,3 +28,6 @@ bundle exec jekyll serve
 ```
 
 [jekyll doc](https://jekyllrb.com/docs/)
+
+
+发现_config.yml里url的配置没有加http，之前写的是patrickhuang888.github.io,生成出来的图片地址总是不对，比如变成https://patrickhuang888.github.io/misc/.../images/ide.jpg,  改成完整的url以后就正常了
